@@ -1,0 +1,14 @@
+Item,Price, Link
+Custom PCB x5,4,/hardware
+PCBA Setup,8,
+Stencil,1.5,
+PCB Parts x2,20.07,/PCB-BOM.csv
+Extended Parts Fee,78,
+SMT Assembly,1.86,
+X-ray Inspection (required),3.14,
+Nitrogen Reflow Soldering,0.82,
+Shipping,28.85,
+Customs,66.22,
+DAPLINK ,3.52, https://www.aliexpress.us/item/3256803753392042.html?spm=a2g0o.productlist.main.3.3b9aeQixeQixOW&algo_pvid=7bf879f9-2744-4cec-8234-a12f393fd66a&algo_exp_id=7bf879f9-2744-4cec-8234-a12f393fd66a-2&pdp_ext_f=%7B%22order%22%3A%2246%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%212.61%210.99%21%21%212.61%210.99%21%402101eac917534651461111152e6da5%2112000027518372890%21sea%21US%210%21ABX&curPageLogUid=WIV7fF3EkrpJ&utparam-url=scene%3Asearch%7Cquery_from%3A
+JLCPCB special discount,-2,
+Total,227.50,
